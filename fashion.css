@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://storage.googleapis.com/deepnote-publishing-bucket/thumb/205c6c68-c1a6-44a7-b6b8-fa6cb1000c3a-thumb.jpg");
+    background-size: 1550px 700px;
+}
+
+#selfie{
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+}
